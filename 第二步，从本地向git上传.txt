@@ -1,0 +1,7 @@
+cd test1                                     (进入test1文件夹下)
+git add .                                    将所有文件添加到仓库中
+git commit -m                         "需要上传的内容的备注"
+
+
+git push -u origin master            上传项目到仓库
+
